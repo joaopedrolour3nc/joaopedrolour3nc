@@ -1,11 +1,18 @@
-# Olá, eu sou o _João Pedro_ 👋 
-## Sou um desenvolvedor back-end,estudante a 2 anos de programação e 1 ano com experiência de desenvolvimento na prática.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008f11&size=40center=true&vCenter=true&width=1000&lines=Hi,+helloworld.exe;Runing+.+.+.+;:%29)
 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:joaopedro08moura@proton.me)
+[![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/jo%C3%A3o-pedro-moura-da-silva-louren%C3%A7o?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+)](https://www.youtube.com/channel/UCN-bgH6n1IdjJ9vO8ZC_FdQ)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@joaopedrolour/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/joaopedroolourenco?igsh=NTh6cjdlZmx1am5q)
 
 
 ![JoaopedroLour3nc GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedrolour3nc&show_icons=true&theme=radical)
 
-# Tenho conhecimento em
+# Languages
 <br>
 <div style="display:inline_block">
     <img alignm="center" alt="Html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -40,13 +47,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedrolour3nc&exclude_repo=github-readme-stats,anuraghazra.github.io,&locale=pt-br)
 
 ## Apaixonado por Desenvolvimento e Tecnologias 
-
-# Caso queira falar comigo
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:joaopedro08moura@proton.me)
-[![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/jo%C3%A3o-pedro-moura-da-silva-louren%C3%A7o?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-)](https://www.youtube.com/channel/UCN-bgH6n1IdjJ9vO8ZC_FdQ)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@joaopedrolour/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/joaopedroolourenco?igsh=NTh6cjdlZmx1am5q)
