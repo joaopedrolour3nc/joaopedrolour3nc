@@ -6,8 +6,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@joaopedrolour/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaopedroolourenco?igsh=NTh6cjdlZmx1am5q)
 
-![JoaopedroLour3nc GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedrolour3nc&show_icons=true&theme=radical)
-
 ## Sobre Mim(About Me)
 
 Olá! Meu nome é **João Pedro**, tenho **23 anos** e sou um profissional apaixonado pela área de **DevOps**. Atualmente, trabalho na criação de **pipelines de CI/CD**, onde busco otimizar processos e aumentar a eficiência das entregas.
