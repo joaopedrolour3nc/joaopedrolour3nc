@@ -58,7 +58,7 @@ Vamos nos conectar e compartilhar conhecimentos!
 <br><br>
 
 ---
-<img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedrolour3nc&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=10&hide=javascript,html,css"/>
+<img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedrolour3nc&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=10&hide=HTML,CSS,JavaScript"/>
 
 ---
 
