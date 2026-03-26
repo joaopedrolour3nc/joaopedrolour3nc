@@ -61,7 +61,7 @@ Vamos nos conectar e compartilhar conhecimentos!
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedrolour3nc&exclude_repo=github-readme-stats,anuraghazra.github.io,&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedrolour3nc&exclude_repo=github-readme-stats,anuraghazra.github.io,&locale=pt-br&hide=javascript,html,css)
 
 ---
 
