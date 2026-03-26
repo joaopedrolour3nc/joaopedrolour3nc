@@ -60,8 +60,7 @@ Vamos nos conectar e compartilhar conhecimentos!
 <br><br>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedrolour3nc&exclude_repo=github-readme-stats,anuraghazra.github.io,&locale=pt-br&hide=javascript,html,css)
+<img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaopedrolour3nc&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=10&hide=javascript,html,css"/>
 
 ---
 
