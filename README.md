@@ -8,7 +8,7 @@
 
 ## Sobre Mim (About Me)
 
-Olá! Meu nome é **João Pedro**, tenho **23 anos** e sou um profissional apaixonado por **Análise de Dados**. Atualmente, trabalho na área de **Departamento Pessoal & Análise de Dados**, onde transformo dados brutos em **insights que apoiam decisões estratégicas**.
+Olá! Meu nome é **João Pedro**, sou um profissional apaixonado por **Análise de Dados**. Atualmente, trabalho na área de **Departamento Pessoal & Análise de Dados**, onde transformo dados brutos em **insights que apoiam decisões estratégicas**.
 
 Tenho experiência com **Python** para análise e automação, **SQL** para consultas e manipulação de dados, e ferramentas de visualização como **Power BI** e **Excel avançado**. Sou movido pela curiosidade de entender padrões e contar histórias através dos dados.
 
@@ -22,8 +22,6 @@ Vamos nos conectar e compartilhar conhecimentos!
 <div style="display:inline_block">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br><br>
 
